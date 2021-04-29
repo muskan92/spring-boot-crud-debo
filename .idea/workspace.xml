@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9ab1aab-8ab2-41fd-8ed5-725eaa43d3ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/crud/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/crud/entities/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/baeldung/crud/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/baeldung/crud/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add-user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/update-user.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/update-user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/baeldung/crud/UserControllerUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/baeldung/crud/EmployeeControllerUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/baeldung/crud/UserUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/baeldung/crud/EmployeeUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rqgxFK6OxYYXkLtRgFZFxZe5fs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.crud.Application" />
+      <module name="spring-boot-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.crud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ab1aab-8ab2-41fd-8ed5-725eaa43d3ed" name="Default Changelist" comment="" />
+      <created>1619709278317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619709278317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1619712015638">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1619712015638" />
+    <state x="466" y="201" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1619709947945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="201" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1366.728@0.0.1366.728" timestamp="1619709947945" />
+    <state x="168" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619710515544">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="168" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1619710515544" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1619711954393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1619711954393" />
+    <state x="438" y="67" key="#xdebugger.evaluate" timestamp="1619710139277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1619710139277" />
+    <state width="425" height="466" key="DebuggerActiveHint" timestamp="1619712539903">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="425" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1619712539903" />
+    <state width="1323" height="322" key="GridCell.Tab.0.bottom" timestamp="1619713236763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619713236763" />
+    <state width="1323" height="322" key="GridCell.Tab.0.center" timestamp="1619713236763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1619713236763" />
+    <state width="1323" height="322" key="GridCell.Tab.0.left" timestamp="1619713236763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1619713236763" />
+    <state width="1323" height="322" key="GridCell.Tab.0.right" timestamp="1619713236763">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1619713236763" />
+    <state width="1323" height="322" key="GridCell.Tab.1.bottom" timestamp="1619713290054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1619713290054" />
+    <state width="1323" height="322" key="GridCell.Tab.1.center" timestamp="1619713290053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1619713290053" />
+    <state width="1323" height="322" key="GridCell.Tab.1.left" timestamp="1619713290053">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1619713290053" />
+    <state width="1323" height="322" key="GridCell.Tab.1.right" timestamp="1619713290054">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="322" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1619713290054" />
+    <state x="155" y="112" key="caller.chooser.dialog" timestamp="1619711969371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="155" y="112" key="caller.chooser.dialog/0.0.1366.728@0.0.1366.728" timestamp="1619711969371" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java</url>
+          <line>48</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/baeldung/crud/controllers/UserController.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
